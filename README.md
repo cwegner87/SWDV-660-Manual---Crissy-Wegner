@@ -1,2 +1,2 @@
-# JenkinsServerWeek5
-Week 5 assignment file to demo a deployment to my Jenkins Server. 
+# SWDV 660 Manual - Crissy Wegner
+Week 5 assignment manual file to deploy to my Jenkins Server. 
